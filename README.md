@@ -1,8 +1,8 @@
 ### Hey there! 🤘
 
-Computer Science student at Fluminense Federal University and Python programmer, I'm focusing my graduation onto Data Science and constantly getting up to date about Games, Music and Soccer.
-Also, I'm finishing "Full Stack Javascript Programmer in 8 Weeks (with React + NodeJS)" course at OneBitCode, it always feels good to learn something new.
-### Feel free to follow me. 
+Computer Science student at *Fluminense Federal University* and Python programmer, I'm focusing my graduation onto Data Science and constantly getting up to date about Games, Music and Soccer.
+Also, I'm finishing *"Full Stack Javascript Programmer in 8 Weeks (with React + NodeJS)"* course at **OneBitCode**, it always feels good to learn something new.
+> ##### Feel free to follow me. 
 
 
 <!--
