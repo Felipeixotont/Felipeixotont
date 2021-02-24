@@ -1,6 +1,6 @@
 ![image1200](https://user-images.githubusercontent.com/43455579/109074955-3d189700-76d7-11eb-8661-7f4a7d433833.jpeg)
 
-<p align="center">## Hey there! 🤘</p>
+<h1 align="center">Hey there! 🤘</h1>
 
 
 <p align="center">Computer Science student at *Fluminense Federal University* and Python programmer, I'm focusing my graduation onto Data Science and constantly getting up to date about Games, Music and Soccer.
