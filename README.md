@@ -1,9 +1,12 @@
 ![image1200](https://user-images.githubusercontent.com/43455579/109074955-3d189700-76d7-11eb-8661-7f4a7d433833.jpeg)
 
-### Hey there! 🤘
+<p align="center">## Hey there! 🤘</p>
 
-Computer Science student at *Fluminense Federal University* and Python programmer, I'm focusing my graduation onto Data Science and constantly getting up to date about Games, Music and Soccer.
-Also, I'm finishing *"Full Stack Javascript Programmer in 8 Weeks (with React + NodeJS)"* course at **OneBitCode**, it always feels good to learn something new.
+
+<p align="center">Computer Science student at *Fluminense Federal University* and Python programmer, I'm focusing my graduation onto Data Science and constantly getting up to date about Games, Music and Soccer.
+Also, I'm finishing *"Full Stack Javascript Programmer in 8 Weeks (with React + NodeJS)"* course at **OneBitCode**, it always feels good to learn something new.</p>
+
+[My LinkedIn](https://www.linkedin.com/in/felipe-henrique-peixoto-neto-459735202/)
 > ##### Feel free to follow me. 
 
 
