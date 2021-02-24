@@ -1,3 +1,5 @@
+![me](https://user-images.githubusercontent.com/43455579/109074172-2a519280-76d6-11eb-8ba9-665a55c26226.png)
+
 ### Hey there! 🤘
 
 Computer Science student at *Fluminense Federal University* and Python programmer, I'm focusing my graduation onto Data Science and constantly getting up to date about Games, Music and Soccer.
