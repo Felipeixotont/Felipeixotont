@@ -3,8 +3,8 @@
 <h1 align="center">Hey there! 🤘</h1>
 
 
-<p align="center">Computer Science student at *Fluminense Federal University* and Python programmer, I'm focusing my graduation onto Data Science and constantly getting up to date about Games, Music and Soccer.
-Also, I'm finishing *"Full Stack Javascript Programmer in 8 Weeks (with React + NodeJS)"* course at **OneBitCode**, it always feels good to learn something new.</p>
+<p align="center">Computer Science student at <i>Fluminense Federal University</i> and Python programmer, I'm focusing my graduation onto Data Science and constantly getting up to date about Games, Music and Soccer.
+Also, I'm finishing <i>"Full Stack Javascript Programmer in 8 Weeks (with React + NodeJS)"</i> course at <strong>OneBitCode</strong>, it always feels good to learn something new.</p>
 
 [My LinkedIn](https://www.linkedin.com/in/felipe-henrique-peixoto-neto-459735202/)
 > ##### Feel free to follow me. 
