@@ -2,7 +2,7 @@
 
 ![2](https://user-images.githubusercontent.com/43455579/109089211-a1dfeb80-76ef-11eb-9a20-03dbfe6aec08.png)
 
-<div style="float:right">
+<div float="right">
 <h1 align="center">Hey there! 🤘</h1>
 
 <p align="justify">Computer Science student at <i>Universidade Federal Fluminense, Brazil</i> and Python programmer. I'm focusing my graduation onto Data Science and constantly getting up to date about Games, Music and Soccer, and also, I practice Jiu Jitsu!</p>
