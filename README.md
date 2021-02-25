@@ -1,4 +1,4 @@
-<img src="https://user-images.githubusercontent.com/43455579/109081753-84a42080-76e1-11eb-8929-cf18e8e61d4a.png" width="820" height="312">
+<img src="https://user-images.githubusercontent.com/43455579/109081753-84a42080-76e1-11eb-8929-cf18e8e61d4a.png" width="720" height="450">
 
 <h1 align="center">Hey there! 🤘</h1>
 
