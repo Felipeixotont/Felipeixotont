@@ -1,10 +1,9 @@
-<style>
-    .text{ float:right;  }
-  
-<style>
+
 
 ![2](https://user-images.githubusercontent.com/43455579/109089211-a1dfeb80-76ef-11eb-9a20-03dbfe6aec08.png)
-
+<style>
+    .text{ float:right;  }  
+<style>
 <div class="text">
 <h1 align="center">Hey there! 🤘</h1>
 
