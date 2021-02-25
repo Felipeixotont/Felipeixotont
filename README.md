@@ -1,4 +1,4 @@
-![2](https://user-images.githubusercontent.com/43455579/109088997-3433bf80-76ef-11eb-9fb3-6d629133ce97.png)
+![2](https://user-images.githubusercontent.com/43455579/109089211-a1dfeb80-76ef-11eb-9a20-03dbfe6aec08.png)
 
 <h1 align="center">Hey there! 🤘</h1>
 
