@@ -1,4 +1,4 @@
-![EUEUEUEUE](https://user-images.githubusercontent.com/43455579/109081390-fb8ce980-76e0-11eb-9edd-c25b204d68fa.jpg)
+<img src="https://user-images.githubusercontent.com/43455579/109081753-84a42080-76e1-11eb-8929-cf18e8e61d4a.png" width="640" height="360">
 
 <h1 align="center">Hey there! 🤘</h1>
 
