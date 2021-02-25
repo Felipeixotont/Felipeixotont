@@ -21,9 +21,8 @@
 8. MongoDB
 9. Git
 
+<a href"https://www.linkedin.com/in/felipe-henrique-peixoto-neto-459735202/"><img src="https://user-images.githubusercontent.com/43455579/109093265-d4411700-76f6-11eb-9397-d9d052d498de.png"></a>
 
-[My LinkedIn](https://www.linkedin.com/in/felipe-henrique-peixoto-neto-459735202/)
-> ##### Feel free to follow me. 
 
-## You're way less than you could be! 
+## "You're way less than you could be!" 
 *Professor Jordan B. Peterson*
