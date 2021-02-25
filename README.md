@@ -21,9 +21,10 @@
 8. MongoDB
 9. Git
 
+
+## You're way less than you could be! 
+* Professor Jordan B. Peterson
+
 [My LinkedIn](https://www.linkedin.com/in/felipe-henrique-peixoto-neto-459735202/)
 > ##### Feel free to follow me. 
 
-<center>
-### You're way less than you could be! </center>
-> ##### Professor Jordan B. Peterson
