@@ -1,4 +1,5 @@
-<center><img src="https://user-images.githubusercontent.com/43455579/109083559-e3b76480-76e4-11eb-94bf-2bd35e64f86b.png"></center>
+<div style="text-align:center"><img src="https://user-images.githubusercontent.com/43455579/109083559-e3b76480-76e4-11eb-94bf-2bd35e64f86b.png" /></div>
+
 <h1 align="center">Hey there! 🤘</h1>
 
 <p align="justify">Computer Science student at <i>Universidade Federal Fluminense, Brazil</i> and Python programmer. I'm focusing my graduation onto Data Science and constantly getting up to date about Games, Music and Soccer, and also, I practice Jiu Jitsu!</p>
