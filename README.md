@@ -24,6 +24,5 @@
 [My LinkedIn](https://www.linkedin.com/in/felipe-henrique-peixoto-neto-459735202/)
 > ##### Feel free to follow me. 
 
-
-<h1 align="center"> You're way less than you could be!</h1>
+#### You're way less than you could be!
 > ##### Professor Jordan B. Peterson
