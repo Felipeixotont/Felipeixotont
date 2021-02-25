@@ -22,9 +22,8 @@
 9. Git
 
 
-## You're way less than you could be! 
-*Professor Jordan B. Peterson*
-
 [My LinkedIn](https://www.linkedin.com/in/felipe-henrique-peixoto-neto-459735202/)
 > ##### Feel free to follow me. 
 
+## You're way less than you could be! 
+*Professor Jordan B. Peterson*
