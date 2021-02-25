@@ -9,7 +9,7 @@
 <p align="justify">Computer Science student at <i>Universidade Federal Fluminense, Brazil</i> and Python programmer. I'm focusing my graduation onto Data Science and constantly getting up to date about Games, Music and Soccer, and also, I practice Jiu Jitsu!</p>
 <p>I'm a Full Stack Javascript programmer by <strong>OneBitCode</strong>, which I'm really proud of, to have been their student, tho. It always feels good to learn something new.</p>
 
-####Skills:
+### Skills:
 
 1. Javascript
 2. Python
@@ -24,5 +24,6 @@
 [My LinkedIn](https://www.linkedin.com/in/felipe-henrique-peixoto-neto-459735202/)
 > ##### Feel free to follow me. 
 
-#### You're way less than you could be!
+<center>
+### You're way less than you could be! </center>
 > ##### Professor Jordan B. Peterson
