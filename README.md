@@ -1,5 +1,4 @@
-
-<span style="display:block;text-align:center">![canva-photo-editor](https://user-images.githubusercontent.com/43455579/109083559-e3b76480-76e4-11eb-94bf-2bd35e64f86b.png)</span>
+![image](https://user-images.githubusercontent.com/43455579/109085081-be782580-76e7-11eb-8956-fff463580450.jpeg)
 
 <h1 align="center">Hey there! 🤘</h1>
 
