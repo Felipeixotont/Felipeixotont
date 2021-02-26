@@ -7,15 +7,15 @@
 
 ### Skills:
 
-1. Javascript
+1. Javascript & Typescript
 2. Python
-3. HTML5
-4. CSS3
-5. React
-6. Angular
-7. NodeJs
-8. MongoDB
-9. Git
+3. React
+4. Angular
+5. NodeJs
+6. MongoDB
+7. Git
+8. HTML5
+9. CSS
 
 ###### Feel free to follow me on:
 [LinkedIn](https://www.linkedin.com/in/felipe-henrique-peixoto-neto-459735202/) and [Instagram](https://www.instagram.com/felipeixotont/)
