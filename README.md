@@ -10,12 +10,11 @@
 1. Javascript & Typescript
 2. Python
 3. React
-4. Angular
-5. NodeJs
-6. MongoDB
-7. Git
-8. HTML5
-9. CSS
+4. NodeJs
+5. MongoDB
+6. Git
+7. HTML5
+8. CSS
 
 ###### Feel free to follow me on:
 [LinkedIn](https://www.linkedin.com/in/felipe-henrique-peixoto-neto-459735202/) and [Instagram](https://www.instagram.com/felipeixotont/)
