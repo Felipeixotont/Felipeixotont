@@ -3,7 +3,7 @@
 <h1 align="center">Hey there! 🤘</h1>
 
 <p align="justify">Computer Science student at <i>"Universidade Federal Fluminense"</i> in Brazil and currently focusing my graduation on Data Science.</p>
-<p>I'm a Full Stack Javascript Developer by <strong>OneBitCode</strong>, which I'm really proud of, to have been their student, tho. It always feels good to learn something new.</p>
+<p>I'm a Full Stack Javascript Developer by <strong>OneBitCode</strong>. It always feels good to learn something new.</p>
 
 ### Skills:
 
