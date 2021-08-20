@@ -3,13 +3,13 @@
 <h1 align="center">Hey there! 🤘</h1>
 
 <p align="justify">Computer Science student at <i>"Universidade Federal Fluminense"</i> in Brazil and currently focusing my graduation on Data Science.</p>
-<p>I'm a Full Stack Javascript Developer by <strong>OneBitCode</strong>. It always feels good to learn something new.</p>
+<p>I'm a Full Stack Javascript Developer by <strong>OneBitCode</strong>.</p>
 
 ### Skills:
 
-1. Javascript & Typescript
-2. Python
-3. React
+1. Python
+2. Flask
+3. Javascript
 4. NodeJs
 5. MongoDB
 6. Git
