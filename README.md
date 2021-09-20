@@ -27,9 +27,9 @@
   
   ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
   
-##  
 </div>  
-  
+ 
+##
 <h1 align="center">Hey there! 🤘</h1>
 
 <p align="justify">Computer Science student at <i>"Universidade Federal Fluminense"</i> in Brazil, Python Programmer and currently focusing my graduation on Data Science.</p>
