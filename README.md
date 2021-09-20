@@ -33,6 +33,7 @@
   
 </div>  
  
-
-# "There ain't no getting' offa this train we on!"
-*Barret Wallace*
+##
+  
+<h2>"There ain't no getting' offa this train we on!"</h2>
+  <p><i>Barret Wallace</i></p>
