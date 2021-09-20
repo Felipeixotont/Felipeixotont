@@ -1,11 +1,12 @@
-![asdasd](https://user-images.githubusercontent.com/43455579/134071966-20ce46f1-0820-4f35-b44b-5560e472b394.jpg)
+<div align="center">
+  ![asdasd](https://user-images.githubusercontent.com/43455579/134071966-20ce46f1-0820-4f35-b44b-5560e472b394.jpg)
 
-<div>
-  <a href="https://github.com/Felipeixotont">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=felipeixotont&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipeixotont&layout=compact&langs_count=7&theme=dracula"/>
+  <div>
+    <a href="https://github.com/Felipeixotont">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=felipeixotont&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipeixotont&layout=compact&langs_count=7&theme=dracula"/>
+  </div>
 </div>
-
 
 <h1 align="center">Hey there! 🤘</h1>
 
