@@ -1,4 +1,6 @@
-  # Hey there! 🤘
+  <div align="center">
+    # Hey there! 🤘
+  </div>
 
 <div align="center">
   
