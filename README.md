@@ -30,7 +30,8 @@
 </div>  
  
 ##
-<h1 align="center">Hey there! 🤘</h1>
+
+  #Hey there! 🤘
 
 <p align="justify">Computer Science student at <i>"Universidade Federal Fluminense"</i> in Brazil, Python Programmer and currently focusing my graduation on Data Science.</p>
 
