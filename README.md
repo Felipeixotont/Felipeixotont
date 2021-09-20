@@ -36,5 +36,5 @@
 </div>  
  
 
-# "You're way less than you could be!" 
-*Professor Jordan B. Peterson*
+# "There ain't no getting' offa this train we on!"
+*Barret Wallace*
