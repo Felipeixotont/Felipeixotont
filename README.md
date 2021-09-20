@@ -1,6 +1,5 @@
-  <div align="center">
-    # Hey there! 🤘
-  </div>
+
+<h1 align="center"> Hey there! 🤘 </h1>
 
 <div align="center">
   
