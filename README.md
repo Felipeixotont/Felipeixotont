@@ -1,3 +1,10 @@
+<div>
+  <a href="https://github.com/Felipeixotont">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rafaballerini&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaballerini&layout=compact&langs_count=7&theme=dracula"/>
+</div>
+
+
 ![image](https://user-images.githubusercontent.com/43455579/109085081-be782580-76e7-11eb-8956-fff463580450.jpeg)
 
 <h1 align="center">Hey there! 🤘</h1>
