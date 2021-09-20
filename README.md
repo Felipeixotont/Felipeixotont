@@ -5,7 +5,7 @@
 </div>
 
 
-![image](https://user-images.githubusercontent.com/43455579/109085081-be782580-76e7-11eb-8956-fff463580450.jpeg)
+![asdasd](https://user-images.githubusercontent.com/43455579/134071966-20ce46f1-0820-4f35-b44b-5560e472b394.jpg)
 
 <h1 align="center">Hey there! 🤘</h1>
 
