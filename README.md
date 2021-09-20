@@ -1,3 +1,5 @@
+  # Hey there! 🤘
+
 <div align="center">
   
   ![asdasd](https://user-images.githubusercontent.com/43455579/134071966-20ce46f1-0820-4f35-b44b-5560e472b394.jpg)
@@ -19,7 +21,8 @@
 </div>
 
 ##
-  
+
+###### Feel free to follow me on:
 <div align="center"> 
   <a href="https://instagram.com/felipeixotont" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:felipeneto@id.uff.br"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
@@ -31,12 +34,8 @@
  
 ##
 
-  #Hey there! 🤘
 
 <p align="justify">Computer Science student at <i>"Universidade Federal Fluminense"</i> in Brazil, Python Programmer and currently focusing my graduation on Data Science.</p>
-
-###### Feel free to follow me on:
-[LinkedIn](https://www.linkedin.com/in/felipe-henrique-peixoto-neto-459735202/) and [Instagram](https://www.instagram.com/felipeixotont/)
 
 
 ## "You're way less than you could be!" 
