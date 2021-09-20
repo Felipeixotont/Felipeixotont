@@ -12,18 +12,7 @@
 <h1 align="center">Hey there! 🤘</h1>
 
 <p align="justify">Computer Science student at <i>"Universidade Federal Fluminense"</i> in Brazil and currently focusing my graduation on Data Science.</p>
-<p>I'm a Full Stack Javascript Developer by <strong>OneBitCode</strong>.</p>
-
-### Skills:
-
-1. Python
-2. Flask
-3. Javascript
-4. NodeJs
-5. MongoDB
-6. Git
-7. HTML5
-8. CSS
+<p>I'm a Python Programmer.</p>
 
 ###### Feel free to follow me on:
 [LinkedIn](https://www.linkedin.com/in/felipe-henrique-peixoto-neto-459735202/) and [Instagram](https://www.instagram.com/felipeixotont/)
