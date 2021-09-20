@@ -3,7 +3,7 @@
 
 <div align="center">
   
-  ![asdasd](https://user-images.githubusercontent.com/43455579/134071966-20ce46f1-0820-4f35-b44b-5560e472b394.jpg)
+  ![asdasd](https://user-images.githubusercontent.com/43455579/134078333-cb6b6fbe-c519-40d2-9ef0-664f8702d5e7.jpg)
 
   <p align="center">Computer Science student at <i>"Universidade Federal Fluminense"</i> in Brazil, Python Programmer and currently focusing my graduation on Data Science.</p>
   
