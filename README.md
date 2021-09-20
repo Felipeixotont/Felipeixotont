@@ -21,7 +21,7 @@
 <h1 align="center">Hey there! 🤘</h1>
 
 <p align="justify">Computer Science student at <i>"Universidade Federal Fluminense"</i> in Brazil and currently focusing my graduation on Data Science.</p>
-<p>I'm a Python Programmer.</p>
+<p>Python Programmer.</p>
 
 ###### Feel free to follow me on:
 [LinkedIn](https://www.linkedin.com/in/felipe-henrique-peixoto-neto-459735202/) and [Instagram](https://www.instagram.com/felipeixotont/)
