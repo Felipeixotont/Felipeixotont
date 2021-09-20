@@ -5,6 +5,8 @@
   
   ![asdasd](https://user-images.githubusercontent.com/43455579/134071966-20ce46f1-0820-4f35-b44b-5560e472b394.jpg)
 
+  <p align="justify">Computer Science student at <i>"Universidade Federal Fluminense"</i> in Brazil, Python Programmer and currently focusing my graduation on Data Science.</p>
+  
   <div>
     <a href="https://github.com/Felipeixotont">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=felipeixotont&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
@@ -34,10 +36,6 @@
 </div>  
  
 ##
-
-
-<p align="justify">Computer Science student at <i>"Universidade Federal Fluminense"</i> in Brazil, Python Programmer and currently focusing my graduation on Data Science.</p>
-
 
 ## "You're way less than you could be!" 
 *Professor Jordan B. Peterson*
