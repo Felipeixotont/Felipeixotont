@@ -34,4 +34,4 @@
 </div>  
  
 <h2 align="center">"There ain't no getting' offa this train we on!"</h2>
-  <p><i aling="center">Barret Wallace</i></p>
+  <p aling="center">Barret Wallace</p>
