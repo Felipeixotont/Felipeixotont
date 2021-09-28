@@ -34,4 +34,4 @@
   
 </div>  
  
-<h2 align="center">"There ain't no getting' offa this train we on!", Barret Wallace.</h2> 
+<h2 align="center">"There ain't no getting' offa this train we on!" - <i>Barret Wallace.</i></h2> 
