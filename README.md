@@ -36,3 +36,5 @@
  
 <h2 align="center">"There ain't no getting' offa this train we on!"</h2>
   <p align="center"><i>Barret Wallace</i></p>
+  
+![Barret_PortraitNB](https://user-images.githubusercontent.com/43455579/135140973-f07830d4-edb7-4f6a-8850-31673f0e2ab4.png)
