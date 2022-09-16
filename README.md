@@ -34,4 +34,4 @@
   
 </div>  
  
-<h2 align="center">"Estuans Interius. Estuans interius. ira vehementi."</i></h2> 
+<h2 align="center">"Estuans Interius ira vehementi."</i></h2> 
