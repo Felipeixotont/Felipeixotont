@@ -5,7 +5,7 @@
   
   ![asdasd](https://user-images.githubusercontent.com/43455579/134078333-cb6b6fbe-c519-40d2-9ef0-664f8702d5e7.jpg)
 
-  <p align="center">Computer Science student at <i>"Universidade Federal Fluminense"</i> in Brazil, Python Programmer and currently focusing my graduation on Data Science.</p>
+  <p align="center">Computer Science student at <i>"Universidade Federal Fluminense"</i> in Brazil, Backend Developer II at Superteia.</p>
   
   <div>
     <a href="https://github.com/Felipeixotont">
