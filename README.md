@@ -30,8 +30,5 @@
   <a href = "mailto:felipeneto@id.uff.br"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/felipe-peixoto-459735202/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   
-  ![tumblr_619c957a096ac31d6a0f8a0fe43e993d_e92880de_500](https://user-images.githubusercontent.com/43455579/134077096-13bef757-335b-4a41-9e34-56a5fad46f6d.gif)
-  
 </div>  
- 
-<h2 align="center">"Estuans Interius ira vehementi."</i></h2> 
+
