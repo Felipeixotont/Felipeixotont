@@ -23,7 +23,7 @@
 </div>
 
 ##
-  <div align="center">Seja bem vindo! Sou Desenvolvedor Backend Jr.</div>
+  <div align="center">Seja bem vindo! Sou Desenvolvedor Backend Jr.</div><br>
 Trabalhei recentemente como Desenvolvedor Backend Jr. na Superteia de 09 de Dezembro de 2021 até 2 de Março de 2023.
 Participei de dois projetos internacionais desenvolvendo softwares usando as seguintes ferramentas: Python e Flask, PostgreSQL, Git/Gitlab/Github, Javascript ES6 + Jquery, HTML5, CSS3 e Docker.
 Mais detalhes a respeito no meu perfil do LinkedIn.
