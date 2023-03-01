@@ -28,15 +28,14 @@ Trabalhei recentemente como Desenvolvedor Backend Jr. na Superteia de 09 de Deze
 Participei de dois projetos internacionais desenvolvendo softwares usando as seguintes ferramentas: Python e Flask, PostgreSQL, Git/Gitlab/Github, Javascript ES6 + Jquery, HTML5, CSS3 e Docker.<br>
 <i>Mais detalhes a respeito no meu perfil do LinkedIn.</i>
 
-<div>
-Iniciei minha graduação em Ciência da Computação na Universidade Federal Fluminense em 2018.2 no polo de Rio das Ostras.
+<br>Iniciei minha graduação em Ciência da Computação na Universidade Federal Fluminense em 2018.2 no polo de Rio das Ostras.
 
 Participei de uma Iniciação Científica cujo o tema é: "Avaliação do desempenho de algoritmos de Deep Learning na classificação de textos em Português", onde estamos estudando diferentes tipos de redes neurais como RNN e LSTM na classificação de textos especificamente em português.
 
 Também participei de um Projeto de Desenvolvimento Acadêmico em Mineração em Bases Textuais no segundo semestre, onde pude aprender e me aprofundar na linguagem de programação Python (uma das minhas principais ferramentas hoje). Nesse projeto desenvolvemos tutoriais de programação com o objetivo de serem ministrados a alunos de ensino fundamental/médio de colégios públicos afim de iniciarem os jovens ao mundo da programação. Eu fiquei encarregado de criar um tutorial de programação básico em Python e um tutorial de introdução ao algoritmo SVM (Support Vector Machine) que se encontram aqui no meu Github.
 
 Estudo por conta própria Desenvolvimento Web e uso tecnologias como Python, Javascript, React, Flask, Django, HTML, CSS, SQLAlchemy, Git e GitHub e etc.
-</div>
+
 ###### Feel free to follow me on:
 <div align="center"> 
   <a href="https://instagram.com/felipeixotont" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
