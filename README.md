@@ -37,7 +37,7 @@ Participei de uma Iniciação Científica cujo o tema é: "Avaliação do desemp
 
 Também participei de um Projeto de Desenvolvimento Acadêmico em Mineração em Bases Textuais no segundo semestre, onde pude aprender e me aprofundar na linguagem de programação Python (uma das minhas principais ferramentas hoje). Nesse projeto desenvolvemos tutoriais de programação com o objetivo de serem ministrados a alunos de ensino fundamental/médio de colégios públicos afim de iniciarem os jovens ao mundo da programação. Eu fiquei encarregado de criar um tutorial de programação básico em Python e um tutorial de introdução ao algoritmo SVM (Support Vector Machine) que se encontram aqui no meu Github.
 
-Estudo por conta própria Desenvolvimento Web e uso tecnologias como Python, Javascript, React, Flask, Django, HTML, CSS, SQLAlchemy, Git e GitHub e etc.
+Estudo por conta própria Desenvolvimento Web e uso tecnologias como Python, Javascript, Flask, Django, FastAPI, HTML, CSS, Git e GitHub e etc.
 
 ###### Feel free to follow me on:
 <div align="center"> 
