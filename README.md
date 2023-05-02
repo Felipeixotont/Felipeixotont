@@ -3,7 +3,7 @@
 
 <div align="center">
   
-  ![WhatsApp Image 2023-03-01 at 10 48 47](https://user-images.githubusercontent.com/43455579/222157633-ce084849-f691-483a-9639-5d50927795c3.jpeg)
+  ![a](https://user-images.githubusercontent.com/43455579/235682371-911a182b-4543-4a88-8f8e-ca0608bc32b9.jpg)
 
   <p align="center">Computer Science student at <i>"Universidade Federal Fluminense"</i> in Brazil, Backend Developer.</p>
   
