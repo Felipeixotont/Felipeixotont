@@ -26,6 +26,7 @@
 <div align="center">Seja bem vindo! Sou Desenvolvedor Backend Jr.</div><br>
 Trabalhei recentemente como Desenvolvedor Backend Jr. na Superteia de 09 de Dezembro de 2021 até 2 de Março de 2023.
 Participei de dois projetos internacionais desenvolvendo softwares usando as seguintes ferramentas: Python e Flask, PostgreSQL, Git/Gitlab/Github, Javascript ES6 + Jquery, HTML5, CSS3 e Docker.<br>
+  Trabalho atualmente na KOUD como Programador Python desenvolvendo Web Crawlers para raspagem de dados. 
 <i>Mais detalhes a respeito no meu perfil do LinkedIn.</i>
   
 <br>Comecei um projeto no Medium chamado <a href="https://medium.com/@Felipeixotont"><i>De Júnior para Júnior</i></a>. É um journal semanal onde escrevo dicas para quem está querendo começar ou para quem já tenha começado a trilhar pelos caminhos da programação. A ideia surgiu da vontade de desabafar sobre acontecimentos da minha vida profissional, da minha vida pessoal e da visão em geral sobre o mercado de trabalho da nossa área.
