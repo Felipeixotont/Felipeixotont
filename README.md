@@ -3,9 +3,7 @@
 
 <div align="center">
   
-  <iframe src="https://giphy.com/embed/UvQ2W4OYg3EKahV5Xe" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/ff-sony-final-fantasy-UvQ2W4OYg3EKahV5Xe">via GIPHY</a></p>
-  
-  ![a](https://user-images.githubusercontent.com/43455579/235682371-911a182b-4543-4a88-8f8e-ca0608bc32b9.jpg)
+  ![giphy](https://github.com/Felipeixotont/Felipeixotont/assets/43455579/3b66e3bf-7025-4c5b-be89-fdebbceb8955)
 
   <p align="center">Computer Science student at <i>"Universidade Federal Fluminense"</i> in Brazil, Backend Developer.</p>
   
