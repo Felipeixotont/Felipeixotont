@@ -20,6 +20,7 @@
     <img align="center" alt="Lipe-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
     <img align="center" alt="Lipe-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
     <img align="center" alt="Lipe-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+    <img align="center" alt="Lipe-Gitlab" height="30" width="40" src="![gitlab_original_logo_icon_146503](https://github.com/Felipeixotont/Felipeixotont/assets/43455579/cd50264e-787d-4142-9216-215358efb89c)">
   </div>
 </div>
 
